@@ -25,7 +25,7 @@ export default function Hero() {
         >
           <div className="relative w-24 h-24 md:w-32 md:h-32 rounded-full overflow-hidden border-4 border-primary/20">
             <Image 
-              src="/jatin.jpg" 
+              src="/j" 
               alt="Jatin Panchal" 
               width={128} 
               height={128} 
